@@ -1,0 +1,224 @@
+Quiero integrar y complementar la información de valor de la presentación de Edison 58 dentro del sitio, pero SIN saturar el navbar ni crear demasiadas páginas.
+
+OBJETIVO
+Aprovechar la información comercial más importante de la presentación para fortalecer el sitio, manteniendo una navegación simple, elegante y fácil de entender.
+
+NO QUIERO
+- Un navbar lleno de secciones
+- Demasiadas páginas
+- Textos largos copiados tal cual de la presentación
+- Una página pesada o saturada
+- Información financiera excesivamente técnica
+
+QUIERO
+Un sitio claro, premium y comercial, donde la información de valor esté integrada de forma estratégica dentro de las páginas existentes.
+
+NAVBAR FINAL SUGERIDO
+Mantener solo estas opciones:
+
+1. Inicio
+2. Proyecto
+3. Historia
+4. Desarrollador
+5. Galería
+6. Contacto
+
+CTA fijo:
+“Agendar cita”
+
+Botón flotante:
+WhatsApp
+
+INTEGRACIÓN DE INFORMACIÓN POR PÁGINA
+
+1. INICIO
+Complementar con los argumentos más potentes:
+- Edison 58 como proyecto de diseño, historia e inversión
+- Punchline principal:
+  “Más que un desarrollo inmobiliario, es una declaración de diseño e historia.”
+- 11 unidades
+- Colonia Tabacalera, CDMX
+- Remodelación con esencia Art Déco
+- Enfoque en habitar o invertir en una zona céntrica
+
+Agregar un bloque breve tipo “Por qué Edison 58” con 3 argumentos:
+- Legado arquitectónico
+- Ubicación estratégica
+- Oportunidad patrimonial
+
+2. PROYECTO
+Aquí integrar toda la información del inmueble y la oferta comercial.
+
+Incluir:
+- 11 unidades totales
+- 3 departamentos de 2 recámaras
+- 6 departamentos de 1 recámara
+- 2 departamentos de 1 recámara con roof garden privado
+- De 44 m² a 58 m² habitables + terrazas y roof gardens
+- 590 m² vendibles
+- Lobby
+- Roof garden común
+
+También integrar mejoras del proyecto:
+- Remodelación de fachada conservando elementos Art Déco
+- Remodelación de áreas comunes conservando esencia histórica
+- Recepción con sistema de seguridad CCTV
+- Cocinas, muebles de baño, pisos, canceles y ventanas nuevas
+- Instalaciones eléctricas e hidrosanitarias nuevas
+- Tinacos y calentadores nuevos
+
+Agregar dentro de esta página una subsección de “Disponibilidad” o “Tipologías” con una tabla visual simple:
+- Departamento
+- Recámaras
+- Baños
+- M² totales
+- Precio / estado
+
+No hacerlo demasiado técnico. Debe ser escaneable y visual.
+
+3. HISTORIA
+Integrar aquí la parte patrimonial y arquitectónica.
+
+Incluir:
+- Arquitectos Teodoro Kunhardt & Joaquín Capilla
+- Reconocidos por obras Art Déco y Neogótico Civil en México
+- Obras destacadas:
+  - Frontón México
+  - Casa O’Hea en Paseo de la Reforma 346
+  - Edificio Edison 58
+- Mencionar que el edificio está catalogado por INBA / INAH como patrimonio histórico arquitectónico, si aplica según la presentación.
+
+Diseño sugerido:
+- Estilo editorial
+- Timeline visual
+- Bloques con obras destacadas
+- Imágenes o placeholders para Frontón México, Casa O’Hea y Edison 58
+- Cuidar tono elegante, histórico y sobrio
+
+4. DESARROLLADOR
+Esta página debe integrar “Quiénes somos”, experiencia previa, objetivos y confianza.
+
+Incluir:
+- Grupo inmobiliario con más de 30 años de experiencia
+- Enfoque en búsqueda y transformación de edificios en zonas céntricas y ubicaciones únicas en CDMX
+- Desarrollo de proyectos inmobiliarios en México
+- Conciencia sobre la necesidad de vivienda
+- Objetivos:
+  - Mejorar el entorno
+  - Generar plusvalía
+  - Crear vivienda en zonas urbanas
+  - Cubrir demanda de vivienda
+  - Generar fuentes de empleo
+  - Fomentar inversión patrimonial inmobiliaria
+  - Eficientar espacios
+
+Integrar BFC Arquitectos:
+- Profesionales de la construcción con experiencia nacional e internacional
+- Coordinación, supervisión y administración de obras medianas y grandes
+- Enfoque en tiempo, costo y calidad
+- Herramientas propias de control y supervisión
+
+Métricas de confianza:
+- 80%+ de obras terminadas en o antes de tiempo
+- 80%+ de obras terminadas por debajo del presupuesto
+- Ningún accidente grave que lamentar
+- Sistema Dinámico de Supervisión / Control Total de Obra
+
+Agregar también “Experiencia previa / Antes y Después” dentro de esta página, no como página separada del navbar.
+
+Proyectos a mostrar:
+- Georgia, Nápoles
+- Gabriel Mancera, Del Valle
+- Orozco y Berra, Buenavista
+- Mitla, Narvarte
+
+Cada proyecto debe mostrar:
+- Antes
+- Después
+- Número de departamentos
+- Tiempo de comercialización
+- Absorción mensual
+
+5. GALERÍA
+Integrar:
+- Renders
+- Situación actual
+- Fachada
+- Interiores
+- Planos
+- Antes/después si también se quiere repetir de forma visual, pero sin duplicar demasiado texto
+
+Diseño:
+- Galería editorial premium
+- Lightbox si es posible
+- Imágenes optimizadas
+- Lazy loading
+
+6. CONTACTO
+Mantener simple:
+- Formulario
+- WhatsApp
+- CTA para agendar cita
+- Mensaje orientado a generar conversación
+
+Agregar microcopy:
+“Agenda una cita para conocer disponibilidad, precios y detalles del proyecto.”
+
+INFORMACIÓN DE UBICACIÓN
+No crear una página separada en navbar para ubicación.
+Integrarla dentro de Proyecto o Inicio como bloque “Tabacalera, CDMX”.
+
+Incluir:
+- Zona céntrica y conectada
+- Cercanía a Reforma, Monumento a la Revolución, Frontón México, museos, hoteles, corporativos y servicios
+- Valor urbano y patrimonial de la zona
+
+INFORMACIÓN DE MERCADO / INVERSIÓN
+No crear una página separada en navbar para inversión.
+Integrarla como bloque breve dentro de Proyecto llamado:
+“Potencial patrimonial”
+
+Usar solo insights simples:
+- Alta demanda de vivienda en CDMX
+- Oferta limitada en zonas céntricas
+- Tabacalera como zona con conectividad y plusvalía
+- Potencial de renta de larga y corta estancia
+- Evitar tablas financieras extensas
+- Si se muestran datos, hacerlo en máximo 3–4 bullets o métricas visuales
+
+CRITERIO DE COPY
+No copiar textos largos de la presentación.
+Convertirlos en mensajes claros, comerciales y fáciles de leer.
+
+El cliente final debe entender rápido:
+- qué es Edison 58
+- por qué tiene valor
+- quién lo desarrolla
+- por qué confiar
+- cómo pedir información
+
+CRITERIO DE DISEÑO
+- Mantener estilo Art Déco premium
+- No saturar
+- Usar mucho espacio visual
+- Secciones escaneables
+- Jerarquía clara
+- Mobile-first
+- Textos cortos
+- Métricas visuales
+- CTAs constantes pero elegantes
+
+CTA PRINCIPAL DEL SITIO
+“Agendar cita”
+
+CTA SECUNDARIO
+“Solicitar información”
+
+WHATSAPP
+Mantener botón flotante en todo el sitio.
+
+IMPORTANTE
+El objetivo no es meter toda la presentación.
+El objetivo es seleccionar la información que más ayuda a vender y distribuirla inteligentemente dentro del sitio.
+
+Aplica los cambios directamente al código existente.

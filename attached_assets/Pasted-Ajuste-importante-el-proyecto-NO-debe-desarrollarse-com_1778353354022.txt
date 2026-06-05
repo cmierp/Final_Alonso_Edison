@@ -1,0 +1,108 @@
+Ajuste importante: el proyecto NO debe desarrollarse como una landing page de una sola página.
+
+Quiero que sea un SITIO WEB COMPLETO para Edison 58, con navegación clara y secciones/páginas independientes.
+
+OBJETIVO
+Convertir la propuesta anterior en un sitio web institucional-comercial completo, no en una landing one-page.
+
+ESTRUCTURA DEL SITIO
+
+Crear navegación principal con estas páginas o secciones independientes:
+
+1. Inicio
+- Hero principal
+- Punchline
+- Resumen del proyecto
+- CTAs principales
+- Vista rápida de valor del proyecto
+
+2. Proyecto
+- Descripción completa de Edison 58
+- Valor arquitectónico
+- Tipologías / espacios disponibles
+- Renders
+- Información comercial relevante
+
+3. Historia y Arquitectura
+- Arquitectos Teodoro Kunhardt & Joaquín Capilla
+- Obras destacadas:
+  - Frontón México
+  - Casa O’Hea
+  - Edison 58
+- Valor patrimonial
+- Referencia a INBA / INAH
+
+4. Quiénes Somos
+- Grupo inmobiliario con más de 30 años de experiencia
+- BFC Arquitectos
+- Trayectoria
+- Objetivos de la empresa
+- Métricas de confianza:
+  - 80%+ obras terminadas en o antes de tiempo
+  - 80%+ obras por debajo del presupuesto
+  - Ningún accidente grave
+
+5. Antes y Después
+- Sección dedicada a proyectos transformados
+- Comparativas visuales
+- Slider o layout antes/después
+- Estructura editable para agregar más proyectos
+
+6. Galería
+- Renders
+- Fachada
+- Interiores
+- Planos
+- Imágenes del proyecto
+- Lightbox si es posible
+
+7. Ubicación
+- Contexto de Tabacalera
+- Conectividad
+- Valor urbano
+- Mapa o placeholder de mapa
+- Puntos cercanos
+
+8. Contacto
+- Formulario de contacto
+- WhatsApp
+- Correo
+- CTA para agendar cita
+- Información comercial
+
+REQUERIMIENTOS DE NAVEGACIÓN
+
+- Header fijo o sticky
+- Menú claro en desktop
+- Menú hamburguesa en mobile
+- Navegación entre páginas o rutas
+- CTA visible en el header: “Agendar cita”
+- Botón flotante de WhatsApp en todo el sitio
+
+SI EL PROYECTO ESTÁ EN REACT
+Usar rutas con React Router o una estructura equivalente:
+
+/
+/proyecto
+/historia
+/quienes-somos
+/antes-despues
+/galeria
+/ubicacion
+/contacto
+
+Si prefieres mantenerlo en una sola app, que visualmente y funcionalmente se comporte como sitio completo con navegación real entre páginas, no como una landing continua.
+
+CRITERIO FINAL
+
+No quiero una one-page landing.
+Quiero un sitio web completo, premium, institucional y comercial, con páginas claras, navegación sólida y contenido organizado.
+
+Mantén:
+- estética Art Déco premium
+- enfoque inmobiliario
+- diseño mobile-first
+- WhatsApp visible
+- formularios de contacto
+- buen performance
+- copy completo y profesional

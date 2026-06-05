@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+@import "tw-animate-css";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-card-border: hsl(var(--card-border));
+
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-popover-border: hsl(var(--popover-border));
+
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-primary-border: var(--primary-border);
+
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-secondary-border: var(--secondary-border);
+
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-muted-border: var(--muted-border);
+
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-accent-border: var(--accent-border);
+
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-destructive-border: var(--destructive-border);
+
+  --font-sans: 'Inter', sans-serif;
+  --font-serif: 'Cormorant Garamond', serif;
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  --button-outline: rgba(255,255,255, .10);
+  --badge-outline: rgba(255,255,255, .05);
+  --opaque-button-border-intensity: -8;
+  --elevate-1: rgba(255,255,255, .045);
+  --elevate-2: rgba(255,255,255, .09);
+
+  /* Warm Espresso — deep, rich, not black */
+  --background: 30 26% 10%;
+  /* Warm Ivory — cream paper, not white */
+  --foreground: 37 36% 92%;
+  /* Subtle warm border */
+  --border: 30 18% 22%;
+
+  /* Charcoal card — clearly distinct from background */
+  --card: 30 24% 14%;
+  --card-foreground: 37 36% 92%;
+  --card-border: 30 17% 24%;
+
+  --popover: 30 24% 14%;
+  --popover-foreground: 37 36% 92%;
+  --popover-border: 30 17% 24%;
+
+  /* Champagne Gold — matte, latón, not brash */
+  --primary: 39 34% 53%;
+  /* Dark espresso on gold */
+  --primary-foreground: 30 26% 10%;
+
+  /* Subtle gold tint panels */
+  --secondary: 39 26% 18%;
+  --secondary-foreground: 39 34% 53%;
+
+  --muted: 30 22% 17%;
+  --muted-foreground: 37 30% 66%;
+
+  --accent: 39 26% 18%;
+  --accent-foreground: 39 34% 53%;
+
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 0 0% 100%;
+
+  --input: 30 22% 24%;
+  --ring: 39 34% 53%;
+
+  --radius: 0rem; /* Sharp edges for Art Deco */
+}
+
+/* Always dark — consistent with brand */
+.dark {
+  --background: 30 26% 10%;
+  --foreground: 37 36% 92%;
+  --border: 30 18% 22%;
+  --card: 30 24% 14%;
+  --card-foreground: 37 36% 92%;
+  --card-border: 30 17% 24%;
+  --popover: 30 24% 14%;
+  --popover-foreground: 37 36% 92%;
+  --popover-border: 30 17% 24%;
+  --primary: 39 34% 53%;
+  --primary-foreground: 30 26% 10%;
+  --secondary: 39 26% 18%;
+  --secondary-foreground: 39 34% 53%;
+  --muted: 30 22% 17%;
+  --muted-foreground: 37 30% 66%;
+  --accent: 39 26% 18%;
+  --accent-foreground: 39 34% 53%;
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 0 0% 100%;
+  --input: 30 22% 24%;
+  --ring: 39 34% 53%;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply font-sans antialiased bg-background text-foreground selection:bg-primary selection:text-primary-foreground;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.deco-border {
+  border: 1px solid hsl(var(--primary));
+  position: relative;
+}
+.deco-border::before {
+  content: '';
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  right: 4px;
+  bottom: 4px;
+  border: 1px solid hsl(var(--primary) / 0.3);
+  pointer-events: none;
+}
+
+.deco-pattern {
+  background-image: linear-gradient(30deg, hsl(var(--background)) 12%, transparent 12.5%, transparent 87%, hsl(var(--background)) 87.5%, hsl(var(--background))), linear-gradient(150deg, hsl(var(--background)) 12%, transparent 12.5%, transparent 87%, hsl(var(--background)) 87.5%, hsl(var(--background))), linear-gradient(30deg, hsl(var(--background)) 12%, transparent 12.5%, transparent 87%, hsl(var(--background)) 87.5%, hsl(var(--background))), linear-gradient(150deg, hsl(var(--background)) 12%, transparent 12.5%, transparent 87%, hsl(var(--background)) 87.5%, hsl(var(--background))), linear-gradient(60deg, hsl(var(--border)) 25%, transparent 25.5%, transparent 75%, hsl(var(--border)) 75%, hsl(var(--border))), linear-gradient(60deg, hsl(var(--border)) 25%, transparent 25.5%, transparent 75%, hsl(var(--border)) 75%, hsl(var(--border)));
+  background-size: 80px 140px;
+  background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+}
+
+/* Light surface utilities for editorial section contrast */
+.surface-ivory {
+  background: hsl(37 30% 93%);
+}
+.surface-ivory-text {
+  color: hsl(30 22% 16%);
+}
+.surface-ivory-muted {
+  color: hsl(30 15% 34%);
+}

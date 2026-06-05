@@ -1,0 +1,135 @@
+Quiero ajustar únicamente la dirección de color e iluminación visual del sitio, manteniendo completamente:
+- la estructura actual
+- el storytelling
+- la identidad Art Déco
+- la composición
+- la jerarquía visual
+- el diseño premium existente
+
+OBJETIVO
+Hacer que el sitio se sienta:
+- más elegante
+- más luminoso
+- más sofisticado
+- más editorial
+- más armónico visualmente
+
+SIN perder:
+- dramatismo
+- sensación histórica
+- esencia arquitectónica
+- identidad premium
+
+IMPORTANTE
+NO rediseñar el sitio.
+NO cambiar layouts.
+NO cambiar estructura.
+NO modificar storytelling ni copy.
+NO eliminar la identidad Art Déco.
+
+Solo refinar:
+- colores
+- contraste
+- overlays
+- iluminación visual
+- balance tonal
+
+AJUSTES DE COLOR
+
+1. REDUCIR NEGRO PURO
+Actualmente el sitio usa demasiado negro absoluto.
+
+Cambiar los fondos negros puros por tonos más cálidos y sofisticados como:
+- carbón suave
+- espresso oscuro
+- café profundo
+- negro cálido
+- marrón oscuro elegante
+
+Esto debe mantener profundidad pero hacer el sitio más premium y menos agresivo visualmente.
+
+2. DORADOS MÁS SOFISTICADOS
+Mantener el dorado actual pero:
+- menos saturado
+- menos brillante
+- más mate
+- más elegante
+
+Usar tonos tipo:
+- champagne
+- gold matte
+- cobre suave
+- latón elegante
+
+Evitar dorados intensos tipo “amarillo brillante”.
+
+3. AGREGAR MÁS RESPIRACIÓN VISUAL
+Incorporar tonos claros en algunas zonas:
+- marfil
+- beige arquitectónico
+- arena suave
+- crema cálida
+
+Esto puede aplicarse en:
+- bloques secundarios
+- secciones intermedias
+- overlays suaves
+- divisores
+
+SIN romper la armonía del sitio.
+
+4. OVERLAYS Y FONDOS
+Reducir overlays demasiado oscuros sobre imágenes y renders.
+
+Objetivo:
+- que las imágenes respiren más
+- que el detalle arquitectónico se vea mejor
+- mantener contraste sin “apagar” el contenido
+
+5. HERO
+Mantener el hero cinematográfico y elegante, pero:
+- ligeramente más iluminado
+- mejor contraste en texto
+- menos sensación de “pantalla negra”
+- profundidad más cálida y refinada
+
+6. NAVBAR
+Refinar visualmente el navbar:
+- fondo blur más elegante
+- menos pesado
+- más integración con el hero
+- hover sutil en dorado mate
+
+7. ARMONÍA GENERAL
+Todo el sitio debe sentirse:
+- coherente
+- uniforme
+- refinado
+- cálido
+- editorial
+
+No quiero contrastes bruscos entre secciones.
+
+8. STORYTELLING VISUAL
+Mantener el storytelling visual de:
+- patrimonio histórico
+- arquitectura Art Déco
+- diseño
+- exclusividad
+- inversión patrimonial
+
+Pero transmitirlo con una estética:
+- más madura
+- más elegante
+- más contemporánea
+
+CRITERIO FINAL
+El sitio debe sentirse como:
+- una firma inmobiliaria premium
+- una revista de arquitectura
+- un hotel boutique histórico
+- lujo sobrio y elegante
+
+No oscuro por oscuro.
+
+Aplicar únicamente ajustes de color, iluminación y balance visual sin modificar la estructura actual del diseño.

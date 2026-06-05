@@ -1,0 +1,56 @@
+Optimiza el hero banner y navbar del sitio Edison 58 para que se vea más premium, limpio y funcional, manteniendo la esencia Art Déco.
+
+PROBLEMAS ACTUALES
+- El logo/nombre Edison 58 compite con el hero principal.
+- El navbar se siente apretado y con demasiado espaciado irregular.
+- El botón “Agendar cita” está muy pegado al borde superior/derecho.
+- El hero tiene una composición poderosa, pero necesita mejor jerarquía visual.
+- La frase inferior parece cortarse o quedar demasiado baja.
+- En mobile debe asegurarse que el hero no se rompa.
+
+NAVBAR
+- Hacer el navbar sticky/fixed con fondo oscuro semitransparente y blur sutil.
+- Darle altura consistente y padding lateral elegante.
+- Alinear verticalmente todos los elementos.
+- Mantener el logo “EDISON | 58” a la izquierda, pero más limpio y proporcional.
+- Reducir el peso visual del menú para que no compita con el hero.
+- Mejorar espaciado entre links.
+- Agregar hover elegante en dorado o marfil.
+- El CTA “Agendar cita” debe verse premium, con mejor padding, border-radius sutil y hover refinado.
+- En mobile usar menú hamburguesa limpio, no mostrar todos los links apretados.
+
+HERO BANNER
+- Mantener el protagonismo del texto “EDISON 58”, pero mejorar proporciones.
+- Asegurar que el hero ocupe el alto completo de pantalla sin cortar textos importantes.
+- Centrar mejor la composición vertical.
+- Colocar “Colonia Tabacalera · Ciudad de México” como eyebrow arriba del título, con tracking elegante.
+- La frase:
+  “Más que un desarrollo inmobiliario, es una declaración de diseño e historia.”
+  debe verse completa, centrada y con buen espaciado debajo del título.
+- Añadir CTAs debajo de la frase:
+  - “Agendar cita”
+  - “Conocer el proyecto”
+- Mantener líneas decorativas Art Déco, pero sin saturar.
+- Agregar overlay sutil para mejorar contraste.
+- Evitar que elementos decorativos tapen contenido.
+
+RESPONSIVE
+- Desktop: composición amplia, elegante y editorial.
+- Tablet: reducir tamaño del título sin perder impacto.
+- Mobile:
+  - título grande pero legible
+  - navbar compacto con hamburguesa
+  - frase visible completa
+  - CTAs apilados
+  - evitar scroll horizontal
+  - mantener padding seguro
+
+CRITERIO VISUAL
+Debe sentirse como una portada editorial premium:
+- menos saturada
+- más refinada
+- más clara
+- con mejor jerarquía
+- Art Déco elegante, no sobrecargado
+
+Aplica directamente los cambios en el código sin cambiar la identidad visual general.

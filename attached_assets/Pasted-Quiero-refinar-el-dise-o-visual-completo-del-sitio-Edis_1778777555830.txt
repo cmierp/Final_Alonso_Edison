@@ -1,0 +1,154 @@
+Quiero refinar el diseño visual completo del sitio Edison 58 para que conserve la esencia premium Art Déco, PERO con una estética más luminosa, clara y elegante.
+
+PROBLEMA ACTUAL
+El sitio se siente demasiado oscuro y pesado visualmente.
+Aunque la dirección Art Déco va bien, actualmente:
+- hay demasiado negro
+- el contraste se siente agresivo
+- algunos elementos se pierden
+- el sitio se percibe más “dark UI” que arquitectura premium
+- falta respiración visual y sofisticación editorial
+
+OBJETIVO
+Mantener:
+- esencia Art Déco
+- elegancia arquitectónica
+- sensación premium
+- identidad histórica
+
+PERO llevarlo a una estética:
+- más luminosa
+- más refinada
+- más editorial
+- más tipo firma inmobiliaria / hotel boutique / revista de arquitectura
+
+REFERENCIAS VISUALES
+Inspirarse en:
+- editoriales de arquitectura
+- hoteles boutique
+- branding inmobiliario premium
+- revistas de diseño
+- patrimonio histórico elegante
+- Art Déco sofisticado y contemporáneo
+
+NO quiero:
+- estilo gamer
+- dark mode pesado
+- negro absoluto dominante
+- exceso de brillo dorado artificial
+- demasiados overlays oscuros
+
+DIRECCIÓN VISUAL NUEVA
+
+PALETA
+Reducir el uso de negro puro.
+Usar tonos como:
+- carbón suave
+- espresso
+- marrón oscuro cálido
+- marfil
+- beige arquitectónico
+- arena
+- champagne
+- dorado mate
+- cobre suave
+
+Mantener acentos dorados, pero mucho más elegantes y sutiles.
+
+Agregar más contraste claro:
+- fondos claros en algunas secciones
+- bloques marfil o beige
+- gradientes suaves
+- overlays más ligeros
+
+TIPOGRAFÍA
+- Mantener serif elegante para títulos
+- Mejorar legibilidad general
+- Más contraste entre headings y body
+- Más aire entre líneas
+- Menos peso visual excesivo
+
+HERO
+El hero debe sentirse:
+- cinematográfico
+- elegante
+- premium
+- respirable
+
+Mejoras:
+- reducir oscuridad extrema
+- mejorar iluminación de fondo
+- usar overlays más suaves
+- dar más protagonismo al contenido
+- agregar profundidad con luces cálidas sutiles
+- permitir que el Art Déco se vea refinado, no saturado
+
+NAVBAR
+- Más limpio
+- Más ligero visualmente
+- Mejor contraste
+- Fondo blur elegante
+- Hover dorado suave
+- CTA “Agendar cita” más premium y menos pesado
+
+SECCIONES
+Alternar fondos:
+- oscuros elegantes
+- marfil / beige / arena
+- bloques editoriales claros
+
+Para evitar que todo el sitio se sienta igual.
+
+IMPORTANTE:
+El sitio debe respirar visualmente.
+
+NO usar:
+- demasiados bordes
+- demasiadas líneas decorativas
+- demasiados elementos dorados
+- exceso de sombras oscuras
+
+ART DÉCO
+Mantener:
+- geometrías
+- líneas finas
+- composición editorial
+- elegancia histórica
+
+Pero hacerlo:
+- más contemporáneo
+- más minimalista
+- más sofisticado
+
+ILUMINACIÓN VISUAL
+Agregar:
+- glow cálido MUY sutil
+- gradientes suaves
+- depth elegante
+- highlights discretos
+- overlays más claros
+
+IMÁGENES
+Las imágenes/renders deben:
+- verse más luminosos
+- tener mejor presencia
+- menos overlay negro
+- mantener contraste premium
+
+RESPONSIVE
+Asegurar que:
+- mobile no se vea demasiado oscuro
+- textos sean muy legibles
+- CTAs destaquen correctamente
+- haya suficiente espacio visual
+
+CRITERIO FINAL
+El sitio debe sentirse como:
+- una firma inmobiliaria premium
+- arquitectura histórica sofisticada
+- patrimonio + lujo sobrio
+- editorial contemporáneo
+
+Debe conservar la esencia Art Déco, pero con una dirección visual mucho más refinada, luminosa y elegante.
+
+Aplica directamente los cambios en el diseño y estilos existentes.

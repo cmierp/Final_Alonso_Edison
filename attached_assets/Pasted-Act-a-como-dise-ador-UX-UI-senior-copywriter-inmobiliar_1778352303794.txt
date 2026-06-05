@@ -1,0 +1,327 @@
+Actúa como diseñador UX/UI senior, copywriter inmobiliario y desarrollador frontend experto en landing pages de alta conversión.
+
+Quiero que construyas un sitio web / landing page premium para un proyecto inmobiliario llamado Edison 58, ubicado en la colonia Tabacalera, CDMX.
+
+OBJETIVO DEL SITIO
+El sitio debe funcionar como una herramienta comercial digital para presentar el proyecto, generar confianza y convertir visitantes en prospectos interesados mediante WhatsApp y formulario de contacto.
+
+Debe estar pensado principalmente para usuarios que acceden desde código QR, por lo tanto debe ser:
+- mobile-first
+- muy claro
+- rápido
+- visual
+- intuitivo
+- orientado a conversión
+
+PUNCHLINE PRINCIPAL
+Usa esta frase como concepto central del sitio:
+
+“Más que un desarrollo inmobiliario, es una declaración de diseño e historia.”
+
+TONO DE COMUNICACIÓN
+El tono debe ser:
+- elegante
+- arquitectónico
+- serio
+- histórico
+- comercial
+- claro para una persona ocupada
+- premium, sin ser exagerado
+
+ESTILO VISUAL
+El diseño debe inspirarse en:
+- Art Déco
+- patrimonio arquitectónico
+- elegancia inmobiliaria
+- historia de la Ciudad de México
+- lujo sobrio
+- diseño editorial
+
+Usar una estética:
+- fondos oscuros o tonos neutros profundos
+- acentos dorados, beige, marfil o cobre
+- líneas geométricas tipo Art Déco
+- tipografía elegante para títulos
+- tipografía clara y legible para textos
+- mucho espacio visual
+- secciones fáciles de escanear
+
+IMPORTANTE:
+No quiero una página genérica de inmobiliaria. Debe sentirse como una pieza editorial/comercial de alto nivel.
+
+ESTRUCTURA DEL SITIO
+
+1. HERO PRINCIPAL
+
+Debe incluir:
+- Nombre: Edison 58
+- Punchline:
+  “Más que un desarrollo inmobiliario, es una declaración de diseño e historia.”
+- Subheadline:
+  “Un edificio con legado arquitectónico en la colonia Tabacalera, transformado para una nueva forma de habitar e invertir en la CDMX.”
+- CTA principal: “Agendar cita”
+- CTA secundario: “Conocer el proyecto”
+- Botón flotante de WhatsApp
+- Imagen o espacio para imagen/render del edificio
+- Diseño muy visual, premium y con esencia Art Déco
+
+El hero debe comunicar en segundos:
+- historia
+- ubicación
+- diseño
+- oportunidad inmobiliaria
+
+2. SECCIÓN DE VALOR DEL PROYECTO
+
+Título sugerido:
+“Un inmueble con historia. Una oportunidad con futuro.”
+
+Desarrollar copy breve que explique:
+Edison 58 no es únicamente un desarrollo inmobiliario. Es la recuperación y transformación de un edificio con valor arquitectónico, ubicado en una de las zonas más céntricas y conectadas de la Ciudad de México.
+
+Incluir 3 bloques visuales:
+- Ubicación estratégica
+- Diseño con legado
+- Inversión patrimonial
+
+3. SECCIÓN DE HISTORIA Y ARQUITECTURA
+
+Título sugerido:
+“El legado detrás de Edison 58”
+
+Incluir la información de los arquitectos:
+
+ARQUITECTOS TEODORO KUNHARDT & JOAQUÍN CAPILLA
+
+Famosos arquitectos por sus obras Art Déco y Neogótico Civil en México durante los siglos XIX y XX.
+
+Obras destacadas:
+- Palacio Cesta Punta Jai Alai / Frontón México
+- Casa O’Hea en Av. Paseo de la Reforma 346
+- Edificio Edison 58 en la colonia Tabacalera
+
+Agregar mensaje:
+“Catalogados por INBA / INAH como patrimonio histórico arquitectónico.”
+
+Diseñar esta sección de forma editorial:
+- con timeline o bloques elegantes
+- imágenes o placeholders para obras históricas
+- diseño tipo museo/galería
+- no usar cards genéricas
+
+4. SECCIÓN “QUIÉNES SOMOS”
+
+Usar esta información, pero redactarla de forma más clara, comercial y elegante:
+
+Somos un grupo inmobiliario con más de 30 años de experiencia en el sector.
+
+Nos dedicamos a la búsqueda y transformación de edificios en las zonas más céntricas y con ubicaciones únicas en la Ciudad de México, así como al desarrollo de proyectos inmobiliarios en el país.
+
+Somos conscientes de la urgente necesidad de vivienda en toda la república, por eso buscamos transformar espacios existentes, mejorar el entorno urbano y generar proyectos con valor patrimonial.
+
+También incluir sección de BFC Arquitectos:
+
+Somos BFC Arquitectos, un grupo de profesionales de la construcción con experiencia nacional e internacional, dedicados a coordinar, supervisar y administrar obras de edificación medianas y grandes dentro del territorio nacional.
+
+Ofrecemos a clientes públicos y privados nuestro conocimiento, experiencia y herramientas para planear, controlar y ejecutar proyectos dentro de objetivos claros de tiempo, costo y calidad.
+
+Hemos desarrollado herramientas informáticas propias que combinamos con nuestra experiencia en gerencia y supervisión de obras para lograr mejores resultados.
+
+5. SECCIÓN DE OBJETIVOS DE LA EMPRESA
+
+Título sugerido:
+“Transformar edificios. Mejorar ciudades. Crear valor.”
+
+Mostrar los objetivos en un diseño limpio y fácil de leer:
+
+- Mejorar el entorno
+- Generar plusvalía para las zonas
+- Crear vivienda en zonas urbanas
+- Cubrir la demanda de vivienda
+- Generar fuentes de empleo
+- Fomentar la inversión patrimonial inmobiliaria
+- Eficientar espacios
+
+Diseño recomendado:
+- listado editorial
+- íconos sutiles
+- bloques horizontales
+- evitar saturación
+
+6. SECCIÓN DE RESULTADOS / CONFIANZA
+
+Título sugerido:
+“Experiencia que se mide en resultados”
+
+Incluir métricas destacadas:
+
+- 80%+ de obras terminadas en o antes de tiempo
+- 80%+ de obras terminadas por debajo del presupuesto
+- Ningún accidente grave que lamentar
+
+Agregar texto:
+“Resultados respaldados por una metodología propia de planeación, control y supervisión de obra.”
+
+Diseño:
+- métricas grandes
+- fondo sobrio
+- estilo premium
+- que se entienda rápido
+
+7. SECCIÓN DEL PROYECTO EDISON 58
+
+Título sugerido:
+“Edison 58: una nueva etapa para un edificio con historia”
+
+Incluir descripción del proyecto:
+- ubicación en colonia Tabacalera
+- edificio con valor histórico y arquitectónico
+- intervención enfocada en renovar, preservar y comercializar espacios habitacionales
+- oportunidad para habitar o invertir en una zona céntrica de la CDMX
+
+Agregar placeholders para:
+- renders
+- fachada
+- interiores
+- planos
+- tipologías
+- amenidades si aplica
+
+La sección debe poder crecer después con más información comercial.
+
+8. SECCIÓN DE ANTES Y DESPUÉS DE PROYECTOS
+
+Crear una sección visual muy atractiva para mostrar transformación.
+
+Título sugerido:
+“Antes y después: transformamos espacios con historia”
+
+Debe incluir:
+- comparativas visuales antes/después
+- slider o layout dividido
+- placeholders para imágenes
+- descripción breve de cada transformación
+
+Requerimientos:
+- mínimo 3 proyectos de ejemplo como placeholders
+- cada proyecto debe tener:
+  - nombre del proyecto
+  - imagen antes
+  - imagen después
+  - breve descripción
+- permitir agregar más proyectos fácilmente desde un array de datos o estructura clara
+
+Si puedes, implementa un componente tipo before/after slider para comparar imágenes. Si no, usa layout lado a lado muy limpio y premium.
+
+9. SECCIÓN DE GALERÍA / RENDERS
+
+Crear una galería visual elegante:
+- imágenes grandes
+- grid editorial
+- lightbox o modal si es viable
+- lazy loading
+- placeholders claros para renders
+
+No debe sentirse como galería genérica. Debe sentirse como portafolio arquitectónico premium.
+
+10. SECCIÓN DE UBICACIÓN / CONTEXTO
+
+Título sugerido:
+“Tabacalera: historia, conectividad y valor urbano”
+
+Explicar que la colonia Tabacalera es una zona céntrica, conectada y con valor histórico dentro de la CDMX.
+
+Incluir:
+- espacio para mapa
+- puntos cercanos
+- conectividad
+- valor del entorno
+
+11. SECCIÓN DE CTA INTERMEDIA
+
+Texto sugerido:
+“Conoce Edison 58 y agenda una visita para descubrir el valor de un proyecto que une historia, diseño e inversión.”
+
+Botones:
+- “Agendar cita”
+- “Enviar WhatsApp”
+
+12. SECCIÓN DE CONTACTO
+
+Debe incluir:
+- formulario de contacto
+- nombre
+- teléfono
+- correo
+- mensaje
+- interés: comprar / invertir / recibir información / agendar cita
+- botón directo de WhatsApp
+
+Copy:
+“Déjanos tus datos y un asesor se pondrá en contacto contigo para compartir más información del proyecto.”
+
+13. FOOTER
+
+Incluir:
+- Edison 58
+- BFC Arquitectos / grupo inmobiliario
+- contacto
+- WhatsApp
+- correo
+- aviso de que imágenes/renders son de carácter ilustrativo si aplica
+
+FUNCIONALIDADES CLAVE
+
+- Diseño responsive mobile-first
+- Botón flotante de WhatsApp
+- Formulario funcional o preparado para integrarse
+- Navegación suave por secciones
+- CTAs visibles
+- Galería de imágenes
+- Sección before/after
+- Estructura de datos editable para proyectos antes/después
+- Buen performance
+- SEO básico
+
+RESPONSIVE
+
+El sitio debe verse excelente en:
+- móvil
+- tablet
+- desktop
+
+En móvil:
+- texto claro
+- botones grandes
+- secciones fáciles de escanear
+- imágenes optimizadas
+- contacto siempre fácil de encontrar
+
+PERFORMANCE
+
+Optimizar:
+- carga rápida
+- imágenes con lazy loading
+- evitar animaciones pesadas
+- priorizar hero y contenido above-the-fold
+
+COPY
+
+Redacta todo el copy completo dentro del sitio.
+No uses lorem ipsum.
+Si falta información específica, usa placeholders elegantes y claramente editables.
+
+CRITERIO FINAL
+
+El sitio debe sentirse:
+- premium
+- histórico
+- inmobiliario
+- confiable
+- arquitectónico
+- comercial
+- altamente convertible
+
+Debe comunicar que Edison 58 no es solo una propiedad, sino una oportunidad de habitar e invertir en un edificio con historia, diseño y valor urbano.
+
+Aplica directamente el diseño y desarrollo en el proyecto.

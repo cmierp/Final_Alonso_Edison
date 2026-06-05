@@ -1,0 +1,11 @@
+[build]
+  command = "PORT=3000 BASE_PATH=/ pnpm --filter @workspace/edison58 run build"
+  publish = "artifacts/edison58/dist/public"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
