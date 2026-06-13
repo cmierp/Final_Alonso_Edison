@@ -185,7 +185,6 @@ export default function Home() {
       <section id="home-valor" style={{ background: "hsl(37 28% 92%)" }}>
         <div className="py-16 md:py-32 px-5 md:px-12 max-w-6xl mx-auto">
           <div className="text-center mb-10 md:mb-16">
-            <p className="text-primary tracking-[0.3em] text-xs uppercase font-sans mb-4 md:mb-5">Por qué Edison 58</p>
             <h2
               className="font-serif text-3xl md:text-5xl mb-5 md:mb-6 leading-tight"
               style={{ color: "hsl(30 22% 14%)" }}
