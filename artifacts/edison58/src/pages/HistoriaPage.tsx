@@ -3,6 +3,7 @@ import CTABanner from "@/components/CTABanner";
 import { motion } from "framer-motion";
 import imgTerraza from "@assets/WhatsApp_Image_2026-05-18_at_3.11.09_PM_(1)_1781379344688.jpeg";
 import imgKunhardt from "@assets/TeodoroKunhardt_1781380912355.jpg";
+import imgFrontonColor from "@assets/Palacio_Frontón_México_1781381033069.jpg";
 
 const obras = [
   {
@@ -11,6 +12,8 @@ const obras = [
     year: "1929",
     desc: "Una de las obras más representativas del Art Déco en la Ciudad de México. Declarada patrimonio arquitectónico de la nación, el Frontón México es un testimonio del esplendor visual de la época y de la maestría de Kunhardt & Capilla para articular escala, geometría y ornamento en un solo edificio monumental.",
     highlight: false,
+    img: imgFrontonColor,
+    imgAlt: "Palacio Frontón México — Tabacalera, CDMX",
   },
   {
     name: "Casa O'Hea",
@@ -18,6 +21,8 @@ const obras = [
     year: "c. 1930",
     desc: "Residencia neogótica civil que ejemplifica la versatilidad y profundidad del lenguaje arquitectónico de Kunhardt & Capilla. La Casa O'Hea fusiona estilos con una sofisticación que refleja el gusto y las aspiraciones de la burguesía mexicana del siglo XX.",
     highlight: false,
+    img: null,
+    imgAlt: "",
   },
   {
     name: "Edificio Edison 58",
@@ -25,6 +30,8 @@ const obras = [
     year: "Catalogado",
     desc: "Joya arquitectónica en el corazón de la Tabacalera. Hoy en proceso de transformación con visión contemporánea, Edison 58 preserva la esencia histórica que lo define mientras se prepara para una nueva etapa como espacio habitacional de alto valor patrimonial.",
     highlight: true,
+    img: null,
+    imgAlt: "",
   },
 ];
 
@@ -136,18 +143,28 @@ export default function HistoriaPage() {
                   </span>
                 </div>
                 <div className="w-56 flex-shrink-0">
-                  <div
-                    className={`h-full min-h-[140px] border flex items-center justify-center ${
-                      obra.highlight
-                        ? "border-primary/30 bg-primary/5"
-                        : "border-primary/10 bg-background/50"
-                    }`}
-                  >
-                    <div className="text-center p-4">
-                      <p className="font-sans text-xs text-white/40 tracking-widest uppercase mb-1">Imagen</p>
-                      <p className="font-sans text-xs text-white/30">Archivo Histórico</p>
+                  {obra.img ? (
+                    <div className="h-full min-h-[140px] overflow-hidden border border-primary/15">
+                      <img
+                        src={obra.img}
+                        alt={obra.imgAlt}
+                        className="w-full h-full object-cover min-h-[140px]"
+                      />
                     </div>
-                  </div>
+                  ) : (
+                    <div
+                      className={`h-full min-h-[140px] border flex items-center justify-center ${
+                        obra.highlight
+                          ? "border-primary/30 bg-primary/5"
+                          : "border-primary/10 bg-background/50"
+                      }`}
+                    >
+                      <div className="text-center p-4">
+                        <p className="font-sans text-xs text-white/40 tracking-widest uppercase mb-1">Imagen</p>
+                        <p className="font-sans text-xs text-white/30">Archivo Histórico</p>
+                      </div>
+                    </div>
+                  )}
                 </div>
                 <div className="flex-1">
                   <h3 className="font-serif text-3xl text-foreground mb-1">{obra.name}</h3>
