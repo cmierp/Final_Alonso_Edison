@@ -2,6 +2,7 @@ import PageHeader from "@/components/PageHeader";
 import CTABanner from "@/components/CTABanner";
 import { motion } from "framer-motion";
 import imgTerraza from "@assets/WhatsApp_Image_2026-05-18_at_3.11.09_PM_(1)_1781379344688.jpeg";
+import imgKunhardt from "@assets/TeodoroKunhardt_1781380912355.jpg";
 
 const obras = [
   {
@@ -78,14 +79,12 @@ export default function HistoriaPage() {
             </div>
 
             <div className="space-y-6 hidden md:block">
-              <div
-                className="h-64 border border-primary/15 flex items-center justify-center"
-                style={{ background: "hsl(30 20% 12%)" }}
-              >
-                <div className="text-center p-6">
-                  <p className="font-sans text-xs text-white/40 tracking-widest uppercase mb-2">Retrato / Archivo</p>
-                  <p className="font-serif text-sm text-white/30">Imagen histórica</p>
-                </div>
+              <div className="h-64 border border-primary/15 overflow-hidden">
+                <img
+                  src={imgKunhardt}
+                  alt="Palacio Frontón México — Archivo INAH"
+                  className="w-full h-full object-cover"
+                />
               </div>
               <div className="border border-primary/30 px-6 py-4 flex items-center gap-4">
                 <div className="w-2 h-2 bg-primary flex-shrink-0" />
