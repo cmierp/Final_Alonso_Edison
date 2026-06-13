@@ -5,6 +5,7 @@ import imgTerraza from "@assets/WhatsApp_Image_2026-05-18_at_3.11.09_PM_(1)_1781
 import imgKunhardt from "@assets/TeodoroKunhardt_1781380912355.jpg";
 import imgFrontonColor from "@assets/Palacio_Frontón_México_1781381033069.jpg";
 import imgCasaOHea from "@assets/Casa_O'Hea_1781381136346.jpg";
+import imgEdison58Render from "@assets/edison58render_1781381178426.jpeg";
 
 const obras = [
   {
@@ -31,8 +32,8 @@ const obras = [
     year: "Catalogado",
     desc: "Joya arquitectónica en el corazón de la Tabacalera. Hoy en proceso de transformación con visión contemporánea, Edison 58 preserva la esencia histórica que lo define mientras se prepara para una nueva etapa como espacio habitacional de alto valor patrimonial.",
     highlight: true,
-    img: null,
-    imgAlt: "",
+    img: imgEdison58Render,
+    imgAlt: "Edificio Edison 58 — Colonia Tabacalera, CDMX",
   },
 ];
 
