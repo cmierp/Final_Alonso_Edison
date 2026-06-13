@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import imgTerraza from "@assets/WhatsApp_Image_2026-05-18_at_3.11.09_PM_(1)_1781379344688.jpeg";
 import imgKunhardt from "@assets/TeodoroKunhardt_1781380912355.jpg";
 import imgFrontonColor from "@assets/Palacio_Frontón_México_1781381033069.jpg";
+import imgCasaOHea from "@assets/Casa_O'Hea_1781381136346.jpg";
 
 const obras = [
   {
@@ -21,8 +22,8 @@ const obras = [
     year: "c. 1930",
     desc: "Residencia neogótica civil que ejemplifica la versatilidad y profundidad del lenguaje arquitectónico de Kunhardt & Capilla. La Casa O'Hea fusiona estilos con una sofisticación que refleja el gusto y las aspiraciones de la burguesía mexicana del siglo XX.",
     highlight: false,
-    img: null,
-    imgAlt: "",
+    img: imgCasaOHea,
+    imgAlt: "Casa O'Hea — Av. Paseo de la Reforma, CDMX",
   },
   {
     name: "Edificio Edison 58",
