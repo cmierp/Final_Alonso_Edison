@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { MessageCircle, Mail, Phone, MapPin, Clock } from "lucide-react";
 
 const WHATSAPP_NUMBER = "5214421128407";
-const EMAIL = "contacto@edison58.mx";
+const EMAIL = "ventas@edison58.com";
 
 const fade = (i = 0) => ({
   initial: { opacity: 0, y: 20 },

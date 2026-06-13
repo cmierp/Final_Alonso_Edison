@@ -12,7 +12,7 @@ import { useToast } from "@/hooks/use-toast";
 import { MessageCircle, Mail, Phone } from "lucide-react";
 
 const WHATSAPP_NUMBER = "5215512345678";
-const EMAIL = "contacto@edison58.mx";
+const EMAIL = "ventas@edison58.com";
 
 const formSchema = z.object({
   nombre: z.string().min(2, "Por favor ingresa tu nombre completo"),

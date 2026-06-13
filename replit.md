@@ -54,7 +54,7 @@ Sitio web comercial premium para el proyecto inmobiliario Edison 58:
 ## Gotchas
 
 - Cambiar `WHATSAPP_NUMBER` en 3 archivos: `CTAIntermedia.tsx`, `Contacto.tsx`, `WhatsAppButton.tsx`
-- Cambiar `EMAIL` en `Contacto.tsx` y `Footer.tsx`
+- Cambiar `EMAIL` en `Contacto.tsx`, `ContactoPage.tsx` y `Footer.tsx`
 - Los renders y placeholders de imágenes deben ser reemplazados por activos reales cuando estén disponibles
 - El mapa de Google Maps puede requerir una API key para producción
 

@@ -3,7 +3,7 @@ import { MessageCircle, Mail, MapPin } from "lucide-react";
 import logoSrc from "@assets/logoEdison58_(1)_1778621964748.png";
 
 const WHATSAPP_NUMBER = "+5214421128407";
-const EMAIL = "contacto@edison58.mx";
+const EMAIL = "ventas@edison58.com";
 
 const navLinks = [
   { label: "El Proyecto",            path: "/proyecto" },
