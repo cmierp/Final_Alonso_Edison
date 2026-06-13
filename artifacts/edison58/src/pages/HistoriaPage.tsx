@@ -1,6 +1,7 @@
 import PageHeader from "@/components/PageHeader";
 import CTABanner from "@/components/CTABanner";
 import { motion } from "framer-motion";
+import imgTerraza from "@assets/WhatsApp_Image_2026-05-18_at_3.11.09_PM_(1)_1781379344688.jpeg";
 
 const obras = [
   {
@@ -184,20 +185,12 @@ export default function HistoriaPage() {
               </p>
             </motion.div>
 
-            {/* Image placeholder — warm ivory on light bg */}
-            <motion.div
-              {...fade(0.1)}
-              className="h-48 md:h-96 border border-primary/20 flex items-center justify-center"
-              style={{ background: "linear-gradient(135deg, hsl(37 20% 85%), hsl(39 25% 82%))" }}
-            >
-              <div className="text-center p-6">
-                <svg width="40" height="40" viewBox="0 0 60 60" fill="none" className="mx-auto mb-3 md:w-[60px] md:h-[60px]" style={{ opacity: 0.35 }}>
-                  <rect x="20" y="20" width="20" height="20" transform="rotate(45 30 30)" stroke="hsl(39 42% 45%)" strokeWidth="1" fill="none"/>
-                  <rect x="10" y="10" width="40" height="40" transform="rotate(45 30 30)" stroke="hsl(39 42% 45%)" strokeWidth="0.5" fill="none"/>
-                </svg>
-                <p className="font-sans text-[10px] md:text-xs tracking-widest uppercase" style={{ color: "hsl(30 15% 40%)" }}>Imagen / Archivo Histórico</p>
-                <p className="font-serif text-xs md:text-sm mt-1 md:mt-2" style={{ color: "hsl(30 15% 52%)" }}>Colonia Tabacalera, CDMX</p>
-              </div>
+            <motion.div {...fade(0.1)} className="overflow-hidden border border-primary/20">
+              <img
+                src={imgTerraza}
+                alt="Terraza Edison 58 — Colonia Tabacalera, CDMX"
+                className="w-full h-48 md:h-96 object-cover"
+              />
             </motion.div>
           </div>
         </div>
